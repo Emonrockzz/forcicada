@@ -1,0 +1,8 @@
+.dolbol{
+    background-image: url(../../images/poets-lineup.jpg);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
